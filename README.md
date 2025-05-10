@@ -37,8 +37,10 @@ Evaluation using metrics like R² score and Mean Squared Error
 🚀 How to Run
 Clone the repository
 
-Install dependencies using pip install -r requirements.txt
+Install dependencies using pip install
 
 Run the Jupyter Notebook or Python script
 
 Input your custom data to get housing price predictions
+
+Note : I have created my own module named as "raza_stats" for performing descriptive statistics on the data.
